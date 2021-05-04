@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @justmirr
+- 👋 Hi, I’m Mir
 - 👀 I’m interested in: C and Python programs and projects
 - 🌱 I’m currently learning: C++, SQL and Java
 - 💞️ I’m looking to collaborate on: Projects in Python
