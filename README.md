@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mir Mozin</h1>
-<h3 align="center">I am a Final year student skilled in HTML, CSS, JavaScript, React, Python, and C, with a flair for UI design.</h3>
+<h3 align="center">I am Computer Science graduate skilled in HTML, CSS, JavaScript, React, Python, and C, with a flair for UI design.</h3>
 
-- 🔭 I’m currently working on **TranScan - Video Transcript Search**
+- 🔭 I’m currently working as a Technical Intern at **Translab Technologies Pvt. Ltd.**
 
-- 🌱 I’m currently learning **AWS, ServiceNow, and NextJS.**
+- 🌱 I’m currently learning **Infrastructure, and Web Development.**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 🤝 I’m looking for help with **CSS3, JavaScript, React and Node.**
+- 🤝 I’m looking for help with **, React and Next.Js.**
 
 - 💬 Ask me about **Python and JavaScript**
 
