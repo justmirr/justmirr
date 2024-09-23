@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working as a Technical Intern at **Translab Technologies Pvt. Ltd.**
 
-- 🌱 I’m currently learning **Infrastructure, and Web Development.**
+- 🌱 I’m currently learning **Infrastructure, and Web Development**.
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**.
 
-- 🤝 I’m looking for help with **, React and Next.Js.**
+- 🤝 I’m looking for help with **, React and Next.Js**.
 
-- 💬 Ask me about **Python and JavaScript**
+- 💬 Ask me about **Python and JavaScript**.
 
-- 📫 How to reach me **moazinmir@gmail.com**
+- 📫 How to reach me **moazinmir@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
