@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Infrastructure, and Web Development**.
 
-- 👯 I’m looking to collaborate on **Web Development Projects**.
+- 👯 I’m looking to collaborate on **DevOps Projects**.
 
 - 🤝 I’m looking for help with **, React and Next.Js**.
 
-- 💬 Ask me about **Python and JavaScript**.
+- 💬 Ask me about **React and DevOps**.
 
 - 📫 How to reach me **moazinmir@gmail.com**.
 
