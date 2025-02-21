@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mir Mozin</h1>
-<h3 align="center">I am a Computer Science graduate skilled in CSS, JavaScript, React, Python, and C, with a flair for Linux and Terraform.</h3>
+<h3 align="center">I am a Computer Science graduate skilled in Linux, React, Python, and C/C++, with a flair for DevOps and Automation.</h3>
 
 - 🔭 I’m currently working as a Technical Intern at **Translab Technologies Pvt. Ltd.**
 
