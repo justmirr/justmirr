@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mir Mozin</h1>
-<h3 align="center">I am a Computer Science graduate skilled in Linux, React, Python, and C/C++, with a flair for DevOps and Automation.</h3>
+<h3 align="center">I am an AI & ML go-getter skilled in Linux, React, Python, and C++, with a flair for DevOps and Automation.</h3>
 
 # 💫 About Me:
-🔭 I work as a Technical Intern at Translab Technologies Pvt. Ltd.<br><br>🌱 I’m currently learning DevOps and Web Development.<br><br>👯 I’m looking to collaborate on Development, Cloud, and CI/CD Projects.<br><br>🤝 I’m looking for help with Go and Next.js.<br><br>💬 Ask me about React and DevOps.<br><br>📫 How to reach me: moazinmir@gmail.com.
+🔭 I work as a Technical Intern at Translab Technologies Pvt. Ltd.<br><br>🌱 I’m currently learning DevOps and Web Development.<br><br>👯 I’m looking to collaborate on Development, AI & ML, and CI/CD Projects.<br><br>🤝 I’m looking for help with Golang and Next.js.<br><br>💬 Ask me about React and DevOps.<br><br>📫 How to reach me: moazinmir@gmail.com.
 
 
 ## 🌐 Socials:
